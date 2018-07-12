@@ -8,7 +8,7 @@ The results shown here is the final version of models with optimal feature and o
 
 model1 LGBM(gbdt) with 27 (20 numerical, 7 categorical) features.
 
-model2 LGBM(dart) with 24(17 numerical, 7 categorical) features.
+model2 LGBM(dart) with 27(17 numerical, 7 categorical) features.
 
 model	private score: 0.9794777
 
