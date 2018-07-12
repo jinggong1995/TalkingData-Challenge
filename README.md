@@ -39,7 +39,7 @@ Feature importance testing can be found in LightGBM.py
 ## Requirements
 I used following environment
 
-Hardware:
+AWS EC2:
 
 Memory: 256GB RAM, 256GB SWAP
 
