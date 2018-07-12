@@ -6,8 +6,6 @@ The results shown here is the final version of models with optimal feature and o
 
 ## models and scores
 
-Model can be found in LightGBM.py and TrainFM.py
-
 model1 LGBM with 27 (20 numerical, 7 categorical) features.
 
 model2 Deep FM with 24(17 numerical, 7 categorical) features.
